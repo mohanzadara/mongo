@@ -6,4 +6,3 @@ Architecture: amd64
 Depends: libc6 (>= 2.7)
 Maintainer: Zadara  <youremail@example.com>
 Description: Your package description
-This is a longer description of your package.
