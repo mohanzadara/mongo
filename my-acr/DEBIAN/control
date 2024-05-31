@@ -1,0 +1,9 @@
+Package: zadara-acr
+Version: 0.1
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: libc6 (>= 2.7)
+Maintainer: Zadara  <youremail@example.com>
+Description: Your package description
+This is a longer description of your package.
